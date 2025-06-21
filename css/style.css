@@ -130,16 +130,13 @@ i{
  color:green;
 }
 
-@keyframes example {
-  from {background-color:grey;}
-  to {background-color:white;}
-}
+
 .header .navbar a{
     margin-left: 2rem;
     font-size: 1.7rem;
     color: black;
     animation-name: example;
-    animation-duration: 5s;
+   
     
     
 }
