@@ -135,13 +135,13 @@ i{
     margin-left: 2rem;
     font-size: 1.7rem;
     color: black;
-    animation-name: example;
+  
    
     
     
 }
 .header .navbar a:hover{
-    color:yellow;
+   
 }
 .header .navbar #nav-close{
     font-size: 5rem;
@@ -158,12 +158,11 @@ i{
 }
 
 .header.icons a:hover, .header.icons div:hover{
-    color: yellow;
+   
 }
 .header #menu-btn{
     display: none;
-    animation-name: example;
-    animation-duration: 10s;
+    
 }
 
 .search-form{
